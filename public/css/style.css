@@ -44,6 +44,17 @@ body, html {
     -webkit-transform: rotate(360deg);
   }
 }
+@keyframes loader {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0;
+  }
+}
 @keyframes fadein {
   from {
     opacity: 0;
@@ -73,7 +84,7 @@ footer {
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
-  padding: 25px;
+  padding: px;
   color: white;
 }
 @media screen and (min-width: 768px) {
@@ -201,10 +212,80 @@ footer ul .fa-hands-helping {
   margin: 0;
   padding: 10px;
 }
-
 .heart h4 {
   margin: 0;
   font-size: 1.5rem;
+}
+.loader {
+  background: -webkit-linear-gradient(#FFFFFF, #99E2D0, #FF79DA, #9356DC);
+  width: 100%;
+  height: 100%;
+  line-height: 100%;
+  font-family: Shrikhand, sans-serif;
+  font-size: x-large;
+  vertical-align: middle;
+  text-align: center;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  animation: loader 0.5s ease-in-out 1s forwards;
+}
+.loader__food {
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+@media screen and (min-width: 768px) {
+  .loader__food {
+    top: 40%;
+    left: 35%;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .loader__food {
+    top: 40%;
+    left: 45%;
+  }
+}
+.loader__food span {
+  display: inline-block;
+  width: 5px;
+  height: 20px;
+  padding-right: 1em;
+}
+.loader__fork {
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  animation: rotate 1s linear infinite;
+}
+.loader__food span:nth-child(1) {
+  animation: grow 1s ease-in-out infinite;
+}
+.loader__food span:nth-child(2) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(3) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(4) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(5) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(6) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(7) {
+  animation: grow 1s ease-in-out 0.15s infinite;
+}
+.loader__food span:nth-child(8) {
+  animation: grow 1s ease-in-out 0.15s infinite;
 }
 .main__menu {
   background-color: #f6f6f6;
@@ -485,3 +566,4 @@ footer ul .fa-hands-helping {
   font-size: 1.2rem;
   margin-left: 20px;
 }
+/*# sourceMappingURL=style.css.map */
