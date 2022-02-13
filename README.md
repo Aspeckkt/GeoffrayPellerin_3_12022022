@@ -36,7 +36,7 @@ Default de posittionement à corriger pour la prochaine séssion des ustensiles 
 Reste du projet correct Prêt pour une soutenance ?
 
 
-Idem Pour le Footer Ohmyfood Ligne 165 peut être les //<li>// ? A revoir tout de même.
+Idem Pour le Footer Ohmyfood Ligne 165 peut être les //li// ? A revoir tout de même.
 
 
 --- Le 13/02/2022 18h30 ---
