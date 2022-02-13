@@ -238,7 +238,7 @@ footer ul .fa-hands-helping {
   top: 45%;
   left: 37%;
 }
-@media screen and (min-width: 512px) {
+@media screen and (min-width: 420px) {
   .loader__food {
     top: 45%;
     left: 30%;
