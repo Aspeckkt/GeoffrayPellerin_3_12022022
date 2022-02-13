@@ -42,3 +42,8 @@ Idem Pour le Footer Ohmyfood Ligne 165 peut être les //li// ? A revoir tout de 
 --- Le 13/02/2022 18h30 ---
 
 Rendu exemplaire via l'hébergement Git problème de possitionnement en Local, revoir SASS et les images; Livrables bientôt opérationnel.
+
+
+--- Le 13/02/2022 22h00 ---
+
+Revoir la version mobile pour le loader... Non centré et superposition des deux éléments.
