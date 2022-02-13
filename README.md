@@ -1,7 +1,7 @@
 ***************
 
 
---- Le 11/02/2022 ---
+--- Le 11/02/2022 18h00 ---
 
 
 Première version HTML
@@ -26,7 +26,7 @@ CSS plus SASS Problème de compatibilité ?
 
 Revoir la taille des img.
 
---- Le 13/02/2022 ---
+--- Le 13/02/2022 11h00---
 
 Toujours un problème avec SASS, copie vers CSS correct mais impossibilité d'avoir un bon rendu avec le dossier SASS.
 
@@ -36,6 +36,9 @@ Default de posittionement à corriger pour la prochaine séssion des ustensiles 
 Reste du projet correct Prêt pour une soutenance ?
 
 
-Idem Pour le Footer Ohmyfood Ligne 165 peut être les <li> ? A revoir tout de même.
+Idem Pour le Footer Ohmyfood Ligne 165 peut être les //<li>// ? A revoir tout de même.
 
 
+--- Le 13/02/2022 18h30 ---
+
+Rendu exemplaire via l'hébergement Git problème de possitionnement en Local, revoir SASS et les images; Livrables bientôt opérationnel.
