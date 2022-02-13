@@ -216,6 +216,7 @@ footer ul .fa-hands-helping {
   margin: 0;
   font-size: 1.5rem;
 }
+/* Mon plus gros soucis c'etait adapter ceci 219*/
 .loader {
   background: -webkit-linear-gradient(#FFFFFF, #99E2D0, #FF79DA, #9356DC);
   width: 100%;
@@ -235,18 +236,18 @@ footer ul .fa-hands-helping {
 .loader__food {
   vertical-align: middle;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 45%;
+  left: 37%;
 }
 @media screen and (min-width: 768px) {
   .loader__food {
-    top: 40%;
-    left: 35%;
+    top: 45%;
+    left: 45%;
   }
 }
 @media screen and (min-width: 1280px) {
   .loader__food {
-    top: 40%;
+    top: 45%;
     left: 45%;
   }
 }
@@ -287,6 +288,7 @@ footer ul .fa-hands-helping {
 .loader__food span:nth-child(8) {
   animation: grow 1s ease-in-out 0.15s infinite;
 }
+/* Mon plus gros soucis c'etait adapter ceci 291*/
 .main__menu {
   background-color: #f6f6f6;
   border-top-left-radius: 25px;
