@@ -238,13 +238,43 @@ footer ul .fa-hands-helping {
   top: 45%;
   left: 37%;
 }
-@media screen and (min-width: 420px) {
+@media screen and (min-width: 320px) {
   .loader__food {
     top: 45%;
-    left: 31%;
+    left: 20%;
+  }
+}
+  @media screen and (min-width: 360px) {
+    .loader__food {
+      top: 45%;
+      left: 25%;
+    }
+  }
+@media screen and (min-width: 390px) {
+  .loader__food {
+    top: 45%;
+    left: 25%;
+  }
+}
+@media screen and (min-width: 412px) {
+  .loader__food {
+    top: 45%;
+    left: 27%;
+  }
+}
+@media screen and (min-width: 720px) {
+  .loader__food {
+    top: 45%;
+    left: 35%;
   }
 }
 @media screen and (min-width: 768px) {
+  .loader__food {
+    top: 45%;
+    left: 38%;
+  }
+}
+@media screen and (min-width: 1080px) {
   .loader__food {
     top: 45%;
     left: 41%;
@@ -253,7 +283,7 @@ footer ul .fa-hands-helping {
 @media screen and (min-width: 1280px) {
   .loader__food {
     top: 45%;
-    left: 46%;
+    left: 43%;
   }
 }
 .loader__food span {
