@@ -26,6 +26,9 @@ h1, h6 {
 body, html {
   font-family: "Roboto", sans-serif;
 }
+ul.operation__steps {
+    padding-left: 0px;
+}
 @keyframes grow {
   0%, 100% {
     -webkit-transform: scaleY(1);
@@ -244,7 +247,7 @@ footer ul .fa-hands-helping {
     left: 20%;
   }
 }
-@media screen and (min-width: 360px) {
+  @media screen and (min-width: 360px) {
     .loader__food {
       top: 45%;
       left: 25%;
@@ -289,7 +292,7 @@ footer ul .fa-hands-helping {
 @media screen and (min-width: 1920px) {
   .loader__food {
     top: 45%;
-    left: 46%;
+    left: 45%;
   }
 }
 .loader__food span {
@@ -329,7 +332,7 @@ footer ul .fa-hands-helping {
 .loader__food span:nth-child(8) {
   animation: grow 1s ease-in-out 0.15s infinite;
 }
-/* Mon plus gros soucis c'etait adapter ceci 332*/
+/* Mon plus gros soucis c'etait adapter ceci 291*/
 .main__menu {
   background-color: #f6f6f6;
   border-top-left-radius: 25px;
