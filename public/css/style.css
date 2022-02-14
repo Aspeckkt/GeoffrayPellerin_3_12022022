@@ -236,7 +236,7 @@ footer ul .fa-hands-helping {
   vertical-align: middle;
   position: absolute;
   top: 45%;
-  left: 37%;
+  left: 55%;
 }
 @media screen and (min-width: 320px) {
   .loader__food {
@@ -244,7 +244,7 @@ footer ul .fa-hands-helping {
     left: 20%;
   }
 }
-  @media screen and (min-width: 360px) {
+@media screen and (min-width: 360px) {
     .loader__food {
       top: 45%;
       left: 25%;
@@ -286,6 +286,12 @@ footer ul .fa-hands-helping {
     left: 43%;
   }
 }
+@media screen and (min-width: 1920px) {
+  .loader__food {
+    top: 45%;
+    left: 46%;
+  }
+}
 .loader__food span {
   display: inline-block;
   width: 5px;
@@ -323,7 +329,7 @@ footer ul .fa-hands-helping {
 .loader__food span:nth-child(8) {
   animation: grow 1s ease-in-out 0.15s infinite;
 }
-/* Mon plus gros soucis c'etait adapter ceci 291*/
+/* Mon plus gros soucis c'etait adapter ceci 332*/
 .main__menu {
   background-color: #f6f6f6;
   border-top-left-radius: 25px;
