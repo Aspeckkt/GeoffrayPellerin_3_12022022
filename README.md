@@ -55,3 +55,9 @@ Revoir la version mobile pour le loader... Non centré et superposition des deux
 --- Le 14/02/2022 00h15 ---
 
 Ajout d'un favicon, loader terminée; prêt pour la soutenance.
+
+************************
+
+--- Le 14/02/2022 16h05 ---
+
+Responsive parfait, pour touts appareils; dernier commit pour le projet N°3 OhMyFood.
