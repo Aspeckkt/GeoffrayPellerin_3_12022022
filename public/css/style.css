@@ -373,7 +373,7 @@ footer ul .fa-hands-helping {
 }
 .dessert {
   animation: fadein 6s ease-in-out;
-  margin: 0 0 50px;
+  margin: 0 0 20px;
 }
 @media screen and (min-width: 1280px) {
   .dessert {
@@ -493,6 +493,7 @@ footer ul .fa-hands-helping {
   background-color: #fff;
   border-radius: 15px;
   margin: 10px;
+  margin-bottom: 15px;
   padding: 10px;
   box-shadow: 4px 4px 6px #aaa;
   position: relative;
@@ -567,6 +568,7 @@ footer ul .fa-hands-helping {
   display: flex;
   justify-content: center;
   background-color: #f6f6f6;
+  padding-bottom: 50px;
 }
 .operation {
   margin-bottom: 75px;
