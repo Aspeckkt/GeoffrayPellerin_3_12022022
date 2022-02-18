@@ -66,4 +66,11 @@ Responsive parfait, pour touts appareils; dernier commit pour le projet N°3 OhM
 
 --- Le 14/02/2022 18h15 ---
 
-Correction de détail notament sur le positionnement. 
+Correction de détail notament sur le positionnement.
+
+************************
+
+--- Le 18/02/2022 13h30 ---
+
+Détails changer, pour être exactement comme la maquette
+bouton nouveau supprimer de deux cartes.
