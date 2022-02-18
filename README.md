@@ -74,3 +74,21 @@ Correction de détail notament sur le positionnement.
 
 Détails changer, pour être exactement comme la maquette
 bouton nouveau supprimer de deux cartes.
+
+--- Le 18/02/2022 19h40 ---
+
+Dernière modification
+
+centrage de la div à propos (about)
+Suppresion d'une marge blanche de deux coté au niveau du Footer
+Détails au niveau de la selection des restaurants, notament l'affichage Nouveau
+divers marges diffèrentes
+continuité de la couleur grise, à la selection de plats dans chaque restaurants.
+
+--- Mon appreciation ---
+
+Cours riche, cencé, exellent moyen de crée son premier site web, nottament grace au diverse recherche à effectuer pour comprendre l'utilisation des Flex content et surtout des animations CSS. In, out, ease, fixation etc etc....
+
+Le plus dur pour ma pars à était de réalisé le loader, il m'a fallu comprendre beaucoup d'élément et de principe que je ne pensais même pas éxistant en simple HTML5 et CSS.
+
+Plus de 50H de travail mais un résultat convainquant. A vous de jouez !
